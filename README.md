@@ -37,3 +37,5 @@ numpy - pip install numpy
 selenium - pip install selenium
 
 Enjoy!
+
+And... yes this program was tested and successfully put to use in the workplace. 
