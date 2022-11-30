@@ -1,0 +1,15 @@
+#################
+{student_name} - string of the student name
+{parent_name} - string of the parent name
+{location} - a string that says, in center, or a string that says online
+{session_time} - a string that contains the session time
+
+The program will autofill the information in message with brackets.
+
+EXAMPLE MESSAGE:
+MATHNASIUM REMINDER: Hello {parent_name}, {student_name} has a 
+mathnasium session at {session_time} {location}.
+#################
+
+Reminder Message: Hello {parent_name}, {student_name} has a 
+mathnasium session at {session_time} {location}.
